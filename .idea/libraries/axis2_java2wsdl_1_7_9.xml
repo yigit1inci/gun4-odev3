@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="axis2-java2wsdl-1.7.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/axis2-java2wsdl-1.7.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
